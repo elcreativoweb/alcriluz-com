@@ -1,0 +1,14 @@
+{
+    "domain": "alcriluz.com",
+    "base_url": "http:\/\/alcriluz.com",
+    "pages": 23,
+    "assets": 30,
+    "total_files": 53,
+    "total_size_mb": 3.17,
+    "output_dir": "\/tmp\/static-export\/alcriluz.com",
+    "pages_failed": [
+        "http:\/\/alcriluz.com\/wp-sitemap.xml"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 15:46:37"
+}
